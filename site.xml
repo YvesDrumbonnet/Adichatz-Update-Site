@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.adichatz.feature_0.9.1.202409260829.jar" id="org.adichatz.feature" version="0.9.1.202409260829" os="win32">
+      <category name="Adichatz1"/>
+   </feature>
+   <category-def name="Adichatz1" label="Adichatz1"/>
+</site>
