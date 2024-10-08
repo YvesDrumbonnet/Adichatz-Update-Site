@@ -29,7 +29,7 @@ big {
 Explanations
 ------------
 Tree products can be installed:
-* Adichatz prefernce.
+* Adichatz preference.
 * Adichatz JPA Tools
 * Adichatz Studio (under construction)
 
