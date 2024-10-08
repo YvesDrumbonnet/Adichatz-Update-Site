@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.adichatz.common.ui.feature_1.0.0.202410081138.jar" id="org.adichatz.common.ui.feature" version="1.0.0.202410081138">
+   <feature url="features/org.adichatz.jpatools.plugin.feature_0.5.0.202410081407.jar" id="org.adichatz.jpatools.plugin.feature" version="0.5.0.202410081407">
       <category name="Adichatz Site"/>
    </feature>
-   <feature url="features/org.adichatz.preference.feature_1.0.0.202410081138.jar" id="org.adichatz.preference.feature" version="1.0.0.202410081138">
+   <feature url="features/org.adichatz.common.ui.feature_0.5.0.202410081407.jar" id="org.adichatz.common.ui.feature" version="0.5.0.202410081407">
       <category name="Adichatz Site"/>
    </feature>
-   <feature url="features/org.adichatz.jpatools.plugin.feature_1.0.0.qualifier.jar" id="org.adichatz.jpatools.plugin.feature" version="1.0.0.qualifier">
+   <feature url="features/org.adichatz.preference.feature_0.5.0.202410081407.jar" id="org.adichatz.preference.feature" version="0.5.0.202410081407">
       <category name="Adichatz Site"/>
    </feature>
    <category-def name="Adichatz Site" label="Adichatz Site"/>
